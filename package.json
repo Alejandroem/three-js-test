@@ -1,0 +1,23 @@
+{
+  "name": "three-js-test",
+  "version": "1.0.0",
+  "description": "A test for the three js library",
+  "main": "index.js",
+  "scripts": {
+    "start": "http-server . -p 8000",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Alejandroem/three-js-test.git"
+  },
+  "author": "Alejandro Enriquez",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Alejandroem/three-js-test/issues"
+  },
+  "homepage": "https://github.com/Alejandroem/three-js-test#readme",
+  "dependencies": {
+    "http-server": "^0.12.3"
+  }
+}
